@@ -1,6 +1,6 @@
-# Welcome to my Github profile!
+# Hi I'm Savio!
 
-My name is Savio Joseph Benher and I'm Computer Engineering Student at the University of Waterloo
+I'm Computer Engineering Student at the University of Waterloo
 - 🔭 I’m currently working on building AI/ML projects
 - ⚡ Fun fact: I'm a professional chess player!
 - 📫 How to reach me: [Outlook](mailto:sjoseph@uwaterloo.ca) or [Linkedin](www.linkedin.com/in/savio-joseph-benher)
