@@ -1,6 +1,6 @@
 # Hi I'm Savio!
 
-I'm Computer Engineering Student at the University of Waterloo
+I'm a Computer Engineering Student at the University of Waterloo
 - 🔭 I’m currently working on building AI/ML projects
 - ⚡ Fun fact: I'm a professional chess player!
 - 📫 How to reach me: [Outlook](mailto:sjoseph@uwaterloo.ca) or [Linkedin](www.linkedin.com/in/savio-joseph-benher)
